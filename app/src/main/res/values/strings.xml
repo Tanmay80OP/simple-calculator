@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tan-may Calculator App</string>
+    <string name="f_no">Enter first number: </string>
+    <string name="s_no">Enter second number: </string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">×</string>
+    <string name="div">/</string>
+    <string name="equals">=</string>
+    <string name="output">Result: </string>
+    <string name="ac">AC</string>
+    <string name="oo">00</string>
+
+
+
+</resources>
